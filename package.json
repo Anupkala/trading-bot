@@ -1,0 +1,17 @@
+{
+  "name": "probo-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+  "start": "node index.js"
+},
+  "keywords": [],
+  "author": "Anup kala",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5"
+  }
+}
